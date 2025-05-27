@@ -97,19 +97,6 @@ HTDOCS/
 - Modify `script.js` for enhanced interactivity
 - Add new features through the modular PHP structure
 
-## 📱 Responsive Design
-
-The application is fully responsive and optimized for:
-- Desktop computers (1920px+)
-- Tablets (768px - 1024px)
-- Mobile phones (320px - 767px)
-
-## 🔧 API Endpoints
-
-- `GET /api.php?action=getTasks` - Retrieve all tasks
-- `POST /api.php?action=addTask` - Add new task
-- `PUT /api.php?action=updateTask` - Update existing task
-- `DELETE /api.php?action=deleteTask` - Delete task
 
 ## 🤝 Contributing
 
