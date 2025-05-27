@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hope Flynn**
 - GitHub: [https://github.com/HopeFlynn)
-- Email: .com
+- Email: hopemwangi004@gmail.com
 
 ## 🙏 Acknowledgments
 
