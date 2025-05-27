@@ -129,4 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Task Managing!** ✅
 
 
-![To-Do List App Interface](https://github.com/HopeFlynn/To-Do-List-App/blob/todolist/Screenshot%20(479).png)
