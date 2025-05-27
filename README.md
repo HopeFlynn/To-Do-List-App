@@ -19,7 +19,7 @@ The application features a clean, intuitive interface with:
 - Numbered task organization (6 total, 2 completed, 4 pending)
 - Modern card-based layout with purple gradient background
 
-
+📁 Project Structure
 
 ```
 HTDOCS/
