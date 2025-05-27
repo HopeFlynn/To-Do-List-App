@@ -11,6 +11,8 @@ A modern, responsive todo list application built with PHP and featuring a beauti
 - **Database Integration**: Persistent storage using PHP and SQL
 - **Bootstrap Framework**: Clean, professional styling with Bootstrap CSS
 
+![To-Do List App Interface](https://github.com/HopeFlynn/To-Do-List-App/blob/todolist/Screenshot%20(479).png)
+
 ## 📸 Preview
 
 The application features a clean, intuitive interface with:
@@ -113,8 +115,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Hope Flynn**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [https://github.com/HopeFlynn)
+- Email: hopemwangi004@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -127,4 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Task Managing!** ✅
 
 
-![To-Do List App Interface](https://github.com/HopeFlynn/To-Do-List-App/blob/todolist/Screenshot%20(477).png)
